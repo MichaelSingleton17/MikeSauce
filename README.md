@@ -12,6 +12,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MikeSauce/threat-hunting-scenario-tor)**
 
+## 📄 Certifications 
+
+
 <hr/>
 
 ## 🤳 Connect With Me
